@@ -1,3 +1,8 @@
+must have;
+-virtualenv
+-pip
+-flask
+
 go into virtual env
 >source venv/bin/activate
 
@@ -6,3 +11,5 @@ install all the packages needed
 
 >export FLASK_APP=run.py  
 >flask run
+
+
